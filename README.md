@@ -13,3 +13,13 @@ There are no matches between the TCE sources and the ROSAT sources in the archiv
 Closest is ~200"
 
 Will continue with the XMM Slew Survey and Chandra archives to see if there is anything there.
+
+Chandra: 
+Returning 45 field matches within 10 arcmin to TCE 1.  Would need to actually go to observations and perform source extraction to see if any of the TCE objects are detected... Too time consuming for me! 
+But upper limits would be available at least. 
+
+XMM-Newton:
+About 150 of the 550 in the first half of the TCE 1 file have coverage within 30 arcmin (most likely from the Slew Survey). 
+Returns a list of OBSIDs for further investigation, so likely some detections or upper limits in there too..
+
+
