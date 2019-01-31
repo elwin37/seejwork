@@ -22,4 +22,5 @@ XMM-Newton:
 About 150 of the 550 in the first half of the TCE 1 file have coverage within 30 arcmin (most likely from the Slew Survey). 
 Returns a list of OBSIDs for further investigation, so likely some detections or upper limits in there too..
 
-
+Checking the source matchin routine:
+It's fine - matches the catalogs to themselves, and when I added random offsets in ra and dec <= 60 arcsec, it found them all within the new 85" maximum offset radius.  So I don't think this is the reason its not finding matches.  
